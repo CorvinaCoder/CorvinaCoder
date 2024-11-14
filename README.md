@@ -9,4 +9,4 @@
 
      O café é o servente  da força interior que habita em mim. 
 
-    ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-CorvinaCoder&show_icons=true&theme=radical)
+   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?CorvinaCoder&show_icons=true&theme=synthwave)
