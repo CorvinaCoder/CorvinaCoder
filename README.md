@@ -16,3 +16,8 @@
 - [x] Projeto de Análise de Dados
 - [ ] Aplicação Web em React
 - [ ] Sistema de Automação de Telecomunicações
+
+## 📈 Minha Trajetória
+
+- 🚀 **202**: Comecei a estudar HTML
+- 🎓 **2026**: Planejo iniciar minha formação formal em TI!
