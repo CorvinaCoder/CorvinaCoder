@@ -8,5 +8,5 @@
   - Leitora quando consigo tempo, escritora quando me sinto amarga. 
 
      O café é o servente  da força interior que habita em mim. 
-
-   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?VitóriaSilva&show_icons=true&theme=synthwave)
+### Ferramentas e Tecnologias
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvinaCoder&layout=compact&theme=dracula)
