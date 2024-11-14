@@ -10,3 +10,9 @@
      O café é o servente  da força interior que habita em mim. 
 ### Ferramentas e Tecnologias
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CorvinaCoder&layout=compact&theme=dracula)
+
+### 🚀 Projetos em Progresso
+
+- [x] Projeto de Análise de Dados
+- [ ] Aplicação Web em React
+- [ ] Sistema de Automação de Telecomunicações
